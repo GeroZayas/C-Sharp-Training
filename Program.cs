@@ -159,3 +159,53 @@ class Program
 
 */
 
+/*
+10. Write a C# Sharp program that takes three numbers (x,y,z) as input and outputs (x+y).z and x.y + y.z.
+Test Data:
+Enter first number - 5
+Enter second number - 6
+Enter third number - 7
+
+Expected Output:
+Result of specified numbers 5, 6 and 7, (x+y).z is 77 and x.y + y.z is 72
+*/
+
+/*
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Enter 3 numbers to perform calculation: ");
+
+        Console.Write("Enter first number: ");
+        int first = Convert.ToInt32(Console.ReadLine());
+
+        Console.Write("Enter second number: ");
+        int second = Convert.ToInt32(Console.ReadLine());
+
+        Console.Write("Enter third number: ");
+        int third = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine($"({first} + {second}) * {third} is:");
+
+        Console.WriteLine(calculation1(first, second, third));
+
+        Console.WriteLine($"({first} * {second}) + ({second} * {third}) is:");
+
+        Console.WriteLine(calculation2(first, second, third));
+
+
+    }
+
+    private static int calculation1(int a, int b, int c)
+    {
+        return (a + b) * c;
+    }
+
+    private static int calculation2(int a, int b, int c)
+    {
+        return (a * b) + (b * c);
+    }
+}
+
+*/
