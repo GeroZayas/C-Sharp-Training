@@ -12,10 +12,25 @@ Expected Output:
 2 x 3 x 6 = 36
 */
 
+/*
 class Program
 {
     static void Main(string[] args)
     {
+        Console.Write("Write your first number: ");
+        int first = Convert.ToInt32(Console.ReadLine());
 
+        Console.Write("Write your first number: ");
+        int second = Convert.ToInt32(Console.ReadLine());
+
+        Console.Write("Write your first number: ");
+        int third = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("The result of the 3 numbers multiplied is:" + "\n");
+        Console.WriteLine(first * second * third);
     }
 }
+
+*/
+
+
