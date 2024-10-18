@@ -1,0 +1,14 @@
+/home/gero/Downloads/Coding/Dotnet and C Sharp Projects/Project_3/bin/Debug/net8.0/Project_3
+/home/gero/Downloads/Coding/Dotnet and C Sharp Projects/Project_3/bin/Debug/net8.0/Project_3.deps.json
+/home/gero/Downloads/Coding/Dotnet and C Sharp Projects/Project_3/bin/Debug/net8.0/Project_3.runtimeconfig.json
+/home/gero/Downloads/Coding/Dotnet and C Sharp Projects/Project_3/bin/Debug/net8.0/Project_3.dll
+/home/gero/Downloads/Coding/Dotnet and C Sharp Projects/Project_3/bin/Debug/net8.0/Project_3.pdb
+/home/gero/Downloads/Coding/Dotnet and C Sharp Projects/Project_3/obj/Debug/net8.0/Project_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/gero/Downloads/Coding/Dotnet and C Sharp Projects/Project_3/obj/Debug/net8.0/Project_3.AssemblyInfoInputs.cache
+/home/gero/Downloads/Coding/Dotnet and C Sharp Projects/Project_3/obj/Debug/net8.0/Project_3.AssemblyInfo.cs
+/home/gero/Downloads/Coding/Dotnet and C Sharp Projects/Project_3/obj/Debug/net8.0/Project_3.csproj.CoreCompileInputs.cache
+/home/gero/Downloads/Coding/Dotnet and C Sharp Projects/Project_3/obj/Debug/net8.0/Project_3.dll
+/home/gero/Downloads/Coding/Dotnet and C Sharp Projects/Project_3/obj/Debug/net8.0/refint/Project_3.dll
+/home/gero/Downloads/Coding/Dotnet and C Sharp Projects/Project_3/obj/Debug/net8.0/Project_3.pdb
+/home/gero/Downloads/Coding/Dotnet and C Sharp Projects/Project_3/obj/Debug/net8.0/Project_3.genruntimeconfig.cache
+/home/gero/Downloads/Coding/Dotnet and C Sharp Projects/Project_3/obj/Debug/net8.0/ref/Project_3.dll
