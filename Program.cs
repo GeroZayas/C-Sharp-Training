@@ -221,11 +221,85 @@ Expected Output:
 25 25 25 25
 25252525
 */
-
+/*
 class Program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("Enter a number, please:");
+        int num = Convert.ToInt32(Console.ReadLine());
+
+        int i = 0;
+
+        while (i < 2)
+        {
+            printWithSpace(num, 4);
+
+            Console.WriteLine();
+
+            printWithOutSpace(num, 4);
+
+            Console.WriteLine();
+
+            i++;
+        }
 
     }
+
+    static void printWithSpace(int n, int repetitions)
+    {
+        for (int i = 0; i < repetitions; i++)
+        {
+            Console.Write($"{n} ");
+        }
+    }
+
+    static void printWithOutSpace(int n, int repetitions)
+    {
+        for (int i = 0; i < repetitions; i++)
+        {
+            Console.Write($"{n}");
+        }
+    }
 }
+*/
+
+/*
+
+14. Write a C# program to convert Celsius degrees to Kelvin and Fahrenheit.
+Test Data:
+Enter the amount of celsius: 30
+Expected Output:
+Kelvin = 303
+Fahrenheit = 86
+*/
+
+/*
+namespace Exercise
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Introduce Celsius: ");
+            double celsius = Convert.ToDouble(Console.ReadLine());
+
+            double kelvin = toKelvin(celsius);
+            double fahrenheit = toFahrenheit(celsius);
+
+            Console.WriteLine($"{celsius} in Kelvin is {kelvin}");
+            Console.WriteLine($"{celsius} in Fahrenheit is {fahrenheit}");
+        }
+
+        static double toKelvin(double num)
+        {
+            return num + 273.15;
+        }
+
+        static double toFahrenheit(double num)
+        {
+            return (1.8 * num) + 32;
+        }
+    }
+}
+*/
