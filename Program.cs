@@ -274,7 +274,7 @@ Kelvin = 303
 Fahrenheit = 86
 */
 
-/*
+
 namespace Exercise
 {
     class Program
@@ -302,4 +302,3 @@ namespace Exercise
         }
     }
 }
-*/
